@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">StreetwearMagazine</string>
+    <string name="brands_name">Nama Brand</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Carhartt</item>
+        <item>Stussy</item>
+        <item>CPFM</item>
+        <item>Supreme</item>
+        <item>Bathing Ape</item>
+        <item>Rhude</item>
+        <item>Aime Leon Dore</item>
+        <item>NOAH</item>
+        <item>Chrome Hearts</item>
+        <item>Vetements</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Carhartt known for its durable and quality workwear, Carhartt has become a staple in street fashion for its rugged aesthetic.</item>
+        <item>Stussy, a pioneering brand in the streetwear culture, has been influential in shaping urban fashion worldwide.</item>
+        <item>CPFM, or Cactus Plant Flea Market, blends whimsical designs with streetwear aesthetics, creating unique, high-demand pieces.</item>
+        <item>Supreme, an iconic streetwear brand, is famous for its limited releases and collaborations that draw lines around blocks.</item>
+        <item>Bathing Ape, or BAPE, a brand known for its camo patterns and ape logo, is a symbol of street luxury.</item>
+        <item>Rhude mixes luxury techniques with streetwear elements, focusing on minimalistic designs with attention to detail.</item>
+        <item>Aime Leon Dore is a brand that combines timeless aesthetics with contemporary fashion, embodying effortless style.</item>
+        <item>NOAH brings an eco-conscious approach to street fashion, merging classic menswear with bold graphics and designs.</item>
+        <item>Chrome Hearts is known for its high fashion approach to streetwear, often incorporating oversized silhouettes and ironic graphics.</item>
+        <item>Vetements is known for its high fashion approach to streetwear, often incorporating oversized silhouettes and ironic graphics.</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/carharttt</item>
+        <item>@drawable/stussy</item>
+        <item>@drawable/cpfm</item>
+        <item>@drawable/supreme</item>
+        <item>@drawable/bape</item>
+        <item>@drawable/rhude</item>
+        <item>@drawable/aime</item>
+        <item>@drawable/noah</item>
+        <item>@drawable/chrome</item>
+        <item>@drawable/vetements</item>
+    </integer-array>
+</resources>
